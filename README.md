@@ -2,9 +2,9 @@
 Social expectation with Neural Network Regression.
 
 
-This is something I made in javascript because of the pressure coming from social expectation. \n
+This is something I made in javascript because of the pressure coming from social expectation. 
 
-Once you run the code in p5.js, it will create a user interacted interface that allows you to play there. \n
+Once you run the code in p5.js, it will create a user interacted interface that allows you to play there. 
 
 # Instruction 
 step1. Create humans by clicking your mouse on the screen. 
