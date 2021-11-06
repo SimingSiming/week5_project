@@ -11,4 +11,4 @@ step1. Create humans by clicking your mouse on the screen.
 
 step2. After creating enough humans, press 't' to train the the human trend. 
 
-step3. Wait for a moment allowing him to train, then press mouse again to see how your little human have moved toward those humans.
+step3. Wait for a moment allowing him to train, then press mouse again to see how your little human have moved toward those existed humans.
